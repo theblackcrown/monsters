@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theblackcrown/monsters/static/css/main.26e687e7.chunk.css",
+    "main.js": "/theblackcrown/monsters/static/js/main.58f55e7e.chunk.js",
+    "main.js.map": "/theblackcrown/monsters/static/js/main.58f55e7e.chunk.js.map",
+    "runtime~main.js": "/theblackcrown/monsters/static/js/runtime~main.666ecd31.js",
+    "runtime~main.js.map": "/theblackcrown/monsters/static/js/runtime~main.666ecd31.js.map",
+    "static/js/2.4ea1ec15.chunk.js": "/theblackcrown/monsters/static/js/2.4ea1ec15.chunk.js",
+    "static/js/2.4ea1ec15.chunk.js.map": "/theblackcrown/monsters/static/js/2.4ea1ec15.chunk.js.map",
+    "index.html": "/theblackcrown/monsters/index.html",
+    "precache-manifest.e92e2585cf753a0eb346e3db5dd49b2d.js": "/theblackcrown/monsters/precache-manifest.e92e2585cf753a0eb346e3db5dd49b2d.js",
+    "service-worker.js": "/theblackcrown/monsters/service-worker.js",
+    "static/css/main.26e687e7.chunk.css.map": "/theblackcrown/monsters/static/css/main.26e687e7.chunk.css.map"
+  }
+}
